@@ -23,12 +23,33 @@ Por eso decidimos cambiar al proyecto de temperatura máxima y mínima mensual d
 Y aprovechar que estos datos nos sirven realmente a nosotros (locales), ya que es información del lugar donde vivimos y podemos comprobar si es cierto que la temperatura ha aumentado.
 La información fue muy fácil de recabar ya que todos estos datos venían organizados en una tabla del Servicio Meteorológico Nacional y solo se trasladaron los datos que estaban en esa tabla y se organizaron en una tabla de Excel.
 
-**Desarrollo**
+# Desarrollo
 Básicamente lo que vamos a hacer en este proyecto es saber cuál es la temperatura máxima y mínima promedio mensual de Coquimatlán desde el año de 1990 hasta 2017, en este proyecto lo que buscamos hacer es realizar gráficas donde se muestren los datos de cuáles fueron las temperaturas promedio de cada año, así como también la temperatura más alta, saber cuáles son las temperaturas que más se frecuentan en este rango de años, entre otras cosas.
 Todo esto se saca o se sacó desde la página de servicio meteorológico nacional en la parte del historial de temperaturas promedio, en este caso de la localidad de Coquimatlán, de ahí los datos se traslada a una tabla de Excel en los cuales serán procesados para poder realizar lo que es el código que esta materia y el maestro necesitan para que puedan ser evaluadas nuestra cuarta parcial.
 
-**Manejo de datos**
+# Manejo de datos
 Para el manejo de datos, lo que realizaremos es una tabla de Excel en la cual pondremos todos nuestros datos ahí, y después con un código de Python mandaremos a llamar todos los datos para así saber cuáles son las respuestas de las preguntas que tenemos como base.
 ![](https://github.com/joseheredia01/Proyecto/blob/main/manejo%20de%20datos%201.jpg?raw=true)
 
-**Codigo**
+# Codigo
+#Proyecto de Programación
+/## Cargar Librerías
+%config IPCompleter.greedy=True
+import pandas as pd
+import numpy as np
+import xlrd
+import seaborn as sb
+import matplotlib.pyplot as plt
+from matplotlib.ticker import PercentFormatter
+#Cargar base de datos
+from google.colab import files
+from google.colab import drive
+drive.mount('/content/drive')
+import pandas as pd
+df = pd.read\_excel("/content/drive/MyDrive/Colab Notebooks/Programacion 2/Parcial 4/Temperatura Maxima y Minima Promedio Mensual de Coquimatlán.xlsx")
+df.shape
+#Tamaño de los datos
+print('El tamaño de los datos en filas y columnas es de ',df.shape)
+pd.read\_excel("/content/drive/MyDrive/Colab Notebooks/Programacion 2/Parcial 4/Temperatura Maxima y Minima Promedio Mensual de Coquimatlán.xlsx")
+df.dtypes
+print('\nLos datos son de tipo:\n',df.dtypes)
