@@ -22,3 +22,10 @@ La obtención de información no siempre es tan sencilla como parece y esto lo p
 Por eso decidimos cambiar al proyecto de temperatura máxima y mínima mensual del municipio de Coquimatlán, Colima desde el año 1990 hasta el año 2017, lo elegimos para saber si hubo algún aumento de la temperatura promedio durante estos 27 años, si es que el calentamiento global afecto en eso o si realmente sigue igual, entre otras cosas.
 Y aprovechar que estos datos nos sirven realmente a nosotros (locales), ya que es información del lugar donde vivimos y podemos comprobar si es cierto que la temperatura ha aumentado.
 La información fue muy fácil de recabar ya que todos estos datos venían organizados en una tabla del Servicio Meteorológico Nacional y solo se trasladaron los datos que estaban en esa tabla y se organizaron en una tabla de Excel.
+
+**Desarrollo**
+Básicamente lo que vamos a hacer en este proyecto es saber cuál es la temperatura máxima y mínima promedio mensual de Coquimatlán desde el año de 1990 hasta 2017, en este proyecto lo que buscamos hacer es realizar gráficas donde se muestren los datos de cuáles fueron las temperaturas promedio de cada año, así como también la temperatura más alta, saber cuáles son las temperaturas que más se frecuentan en este rango de años, entre otras cosas.
+Todo esto se saca o se sacó desde la página de servicio meteorológico nacional en la parte del historial de temperaturas promedio, en este caso de la localidad de Coquimatlán, de ahí los datos se traslada a una tabla de Excel en los cuales serán procesados para poder realizar lo que es el código que esta materia y el maestro necesitan para que puedan ser evaluadas nuestra cuarta parcial.
+
+**Manejo de datos**
+Para el manejo de datos, lo que realizaremos es una tabla de Excel en la cual pondremos todos nuestros datos ahí, y después con un código de Python mandaremos a llamar todos los datos para así saber cuáles son las respuestas de las preguntas que tenemos como base.
