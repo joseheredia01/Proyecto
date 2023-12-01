@@ -31,7 +31,8 @@ Todo esto se saca o se sacó desde la página de servicio meteorológico naciona
 Para el manejo de datos, lo que realizaremos es una tabla de Excel en la cual pondremos todos nuestros datos ahí, y después con un código de Python mandaremos a llamar todos los datos para así saber cuáles son las respuestas de las preguntas que tenemos como base.
 ![](https://github.com/joseheredia01/Proyecto/blob/main/manejo%20de%20datos%201.jpg?raw=true)
 
-# Codigo
+# Codigos
+**Numero 1**
 #Proyecto de Programación
 /## Cargar Librerías
 %config IPCompleter.greedy=True
@@ -53,3 +54,30 @@ print('El tamaño de los datos en filas y columnas es de ',df.shape)
 pd.read\_excel("/content/drive/MyDrive/Colab Notebooks/Programacion 2/Parcial 4/Temperatura Maxima y Minima Promedio Mensual de Coquimatlán.xlsx")
 df.dtypes
 print('\nLos datos son de tipo:\n',df.dtypes)
+**Numero 2**
+Temperatura Maxima Promedio Mensual 1990 - 2017
+Promedio = (39.13191667 + 39.57891667 + 34.94366667 + 33.7525 + 32.44941667 + 31.35691667 + 33.82208333 + 33.61225 + 33.65366667 + 33.67825 + 33.55075 + 34.01283333 + 34.26741667 + 34.2295 + 33.84925 + 34.02675 + 34.50808333 + 34.49625 + 33.84725 + 34.47433333 + 33.31608333 + 34.11441667 + 32.48825 + 32.40975 + 33.2305 + 33.38466667 + 33.45941667 + 33.05041667)/27
+print ("El promedio de la temperatura maxima promedio total es de",Promedio)
+import statistics
+data = [39.13191667 , 39.57891667 , 34.94366667 , 33.7525 , 32.44941667 , 31.35691667 , 33.82208333 , 33.61225 , 33.65366667 , 33.67825 , 33.55075 , 34.01283333 , 34.26741667 , 34.2295 , 33.84925 , 34.02675 , 34.50808333 , 34.49625 , 33.84725 , 34.47433333 , 33.31608333 , 34.11441667 , 32.48825 , 32.40975 , 33.2305 , 33.38466667 , 33.45941667 , 33.05041667]
+\# Calcula la moda utilizando la función mode() de statistics
+mode = statistics.mode(data)
+print("La Moda es de", mode)
+datos = [39.13191667 , 39.57891667 , 34.94366667 , 33.7525 , 32.44941667 , 31.35691667 , 33.82208333 , 33.61225 , 33.65366667 , 33.67825 , 33.55075 , 34.01283333 , 34.26741667 , 34.2295 , 33.84925 , 34.02675 , 34.50808333 , 34.49625 , 33.84725 , 34.47433333 , 33.31608333 , 34.11441667 , 32.48825 , 32.40975 , 33.2305 , 33.38466667 , 33.45941667 , 33.05041667]
+\# Calcular la desviación estándar utilizando NumPy
+desviacion\_estandar = np.std(datos)
+print("La desviación estándar es de", desviacion\_estandar)
+#Definimos una lista con años como string
+años = ['1990', '1991', '1992', '1993', '1994', '1995', '1996', '1997', '1998', '1999', '2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017']
+#Definimos una lista
+Temperaturas = [39.13191667 , 39.57891667 , 34.94366667 , 33.7525 , 32.44941667 , 31.35691667 , 33.82208333 , 33.61225 , 33.65366667 , 33.67825 , 33.55075 , 34.01283333 , 34.26741667 , 34.2295 , 33.84925 , 34.02675 , 34.50808333 , 34.49625 , 33.84725 , 34.47433333 , 33.31608333 , 34.11441667 , 32.48825 , 32.40975 , 33.2305 , 33.38466667 , 33.45941667 , 33.05041667]
+fig, ax = plt.subplots()
+#Colocamos una etiqueta en el eje Y
+ax.set\_ylabel('Temperaturas')
+#Colocamos una etiqueta en el eje X
+ax.set\_title('Temperaturas Maximas Promedio Anual')
+#Creamos la grafica de barras
+plt.bar(años, Temperaturas)
+plt.savefig('barras\_simple.png')
+#Finalmente mostramos la grafica con el metodo show()
+plt.show()
