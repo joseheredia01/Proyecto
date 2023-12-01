@@ -83,4 +83,4 @@ plt.savefig('barras\_simple.png')
 plt.show()
 # Resultados
 ![](https://github.com/joseheredia01/Proyecto/blob/main/grafica1.jpg?raw=true)
-![](
+![](https://github.com/joseheredia01/Proyecto/blob/main/grafica2.jpg?raw=true)
