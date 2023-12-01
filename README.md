@@ -29,4 +29,4 @@ Todo esto se saca o se sacó desde la página de servicio meteorológico naciona
 
 **Manejo de datos**
 Para el manejo de datos, lo que realizaremos es una tabla de Excel en la cual pondremos todos nuestros datos ahí, y después con un código de Python mandaremos a llamar todos los datos para así saber cuáles son las respuestas de las preguntas que tenemos como base.
-![](Aspose.Words.33165673-5f1c-460a-ac12-3a4be3269e06.001.png)
+![](https://github.com/joseheredia01/Proyecto/blob/main/manejo%20de%20datos%201.jpg?raw=true)
