@@ -95,3 +95,4 @@ La importancia de la disponibilidad y accesibilidad de la información se destac
 
 En conclusión, lidiar con problemas de obtención de datos en el proyecto inicial llevó a un cambio reflexivo y productivo hacia un proyecto nuevo y apropiado. Este proceso destaca la importancia de la adaptabilidad y la flexibilidad en la investigación, así como la relevancia de la información local y su utilidad para comprender y abordar problemas importantes de la comunidad.
 # Póster científico
+![](https://github.com/joseheredia01/Proyecto/blob/main/Poster%20Cientifico%20Proyecto%20Progra_page-0001.jpg?raw=true)
