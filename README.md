@@ -54,6 +54,7 @@ print('El tamaño de los datos en filas y columnas es de ',df.shape)
 pd.read\_excel("/content/drive/MyDrive/Colab Notebooks/Programacion 2/Parcial 4/Temperatura Maxima y Minima Promedio Mensual de Coquimatlán.xlsx")
 df.dtypes
 print('\nLos datos son de tipo:\n',df.dtypes)
+# 
 ![](https://github.com/joseheredia01/Proyecto/blob/main/Codigo%201.jpg?raw=true)
 **Numero 2**
 Temperatura Maxima Promedio Mensual 1990 - 2017
@@ -82,8 +83,7 @@ plt.bar(años, Temperaturas)
 plt.savefig('barras\_simple.png')
 #Finalmente mostramos la grafica con el metodo show()
 plt.show()
-
-
+#
 ![](https://github.com/joseheredia01/Proyecto/blob/main/Codigo%202.0.jpg?raw=true)
 ![](https://github.com/joseheredia01/Proyecto/blob/main/Codigo%202.1.jpg?raw=true)
 # Resultados
