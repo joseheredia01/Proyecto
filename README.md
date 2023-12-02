@@ -82,6 +82,8 @@ plt.bar(años, Temperaturas)
 plt.savefig('barras\_simple.png')
 #Finalmente mostramos la grafica con el metodo show()
 plt.show()
+
+
 ![](https://github.com/joseheredia01/Proyecto/blob/main/Codigo%202.0.jpg?raw=true)
 ![](https://github.com/joseheredia01/Proyecto/blob/main/Codigo%202.1.jpg?raw=true)
 # Resultados
