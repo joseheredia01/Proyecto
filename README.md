@@ -94,3 +94,4 @@ La transición hacia un nuevo proyecto que se enfocó en el análisis de las tem
 La importancia de la disponibilidad y accesibilidad de la información se destaca por la facilidad con la que se obtuvieron los datos para el segundo proyecto. Este cambio no solo dio a la comunidad local la oportunidad de investigar un tema relevante, sino que también permitió una verificación precisa y localizable de los efectos del cambio climático en el área.
 
 En conclusión, lidiar con problemas de obtención de datos en el proyecto inicial llevó a un cambio reflexivo y productivo hacia un proyecto nuevo y apropiado. Este proceso destaca la importancia de la adaptabilidad y la flexibilidad en la investigación, así como la relevancia de la información local y su utilidad para comprender y abordar problemas importantes de la comunidad.
+# Póster científico
