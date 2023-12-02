@@ -82,11 +82,7 @@ plt.savefig('barras\_simple.png')
 #Finalmente mostramos la grafica con el metodo show()
 plt.show()
 # Resultados
-**1**
 ![](https://github.com/joseheredia01/Proyecto/blob/main/grafica1.jpg?raw=true)
-**2**
 ![](https://github.com/joseheredia01/Proyecto/blob/main/grafica2.jpg?raw=true)
-**3**
 ![](https://github.com/joseheredia01/Proyecto/blob/main/grafica3.jpg?raw=true)
-**4**
 ![](https://github.com/joseheredia01/Proyecto/blob/main/grafica4.jpg?raw=true)
