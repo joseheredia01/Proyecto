@@ -32,7 +32,6 @@ Para el manejo de datos, lo que realizaremos es una tabla de Excel en la cual po
 ![](https://github.com/joseheredia01/Proyecto/blob/main/manejo%20de%20datos%201.jpg?raw=true)
 
 # Codigos
-**Numero 1**
 #Proyecto de Programación
 /## Cargar Librerías
 %config IPCompleter.greedy=True
@@ -56,7 +55,7 @@ df.dtypes
 print('\nLos datos son de tipo:\n',df.dtypes)
 # 
 ![](https://github.com/joseheredia01/Proyecto/blob/main/Codigo%201.jpg?raw=true)
-**Numero 2**
+#
 Temperatura Maxima Promedio Mensual 1990 - 2017
 Promedio = (39.13191667 + 39.57891667 + 34.94366667 + 33.7525 + 32.44941667 + 31.35691667 + 33.82208333 + 33.61225 + 33.65366667 + 33.67825 + 33.55075 + 34.01283333 + 34.26741667 + 34.2295 + 33.84925 + 34.02675 + 34.50808333 + 34.49625 + 33.84725 + 34.47433333 + 33.31608333 + 34.11441667 + 32.48825 + 32.40975 + 33.2305 + 33.38466667 + 33.45941667 + 33.05041667)/27
 print ("El promedio de la temperatura maxima promedio total es de",Promedio)
