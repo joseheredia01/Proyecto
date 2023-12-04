@@ -1,4 +1,4 @@
-# Calculo de temperatura máxima y miníma promedio mensual de Coquimatán, Col. del periodo 1990 a 2017 con Python
+# Calculo de temperatura máxima y mínima promedio mensual de Coquimatán, Col. del periodo 1990 a 2017 con Python
 
 **FACULTAD DE INGENIERIA CIVIL**\
 **INGENIERO TOPOGRAFO GEOMATICO**\
