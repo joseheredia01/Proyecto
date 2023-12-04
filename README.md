@@ -85,10 +85,10 @@ plt.show()
 ![](https://github.com/joseheredia01/Proyecto/blob/main/imagenes/Codigo%202.0.jpg?raw=true)
 ![](https://github.com/joseheredia01/Proyecto/blob/main/imagenes/Codigo%202.1.jpg?raw=true)
 # Resultados
-![](https://github.com/joseheredia01/Proyecto/blob/main/grafica1.jpg?raw=true)
-![](https://github.com/joseheredia01/Proyecto/blob/main/grafica2.jpg?raw=true)
-![](https://github.com/joseheredia01/Proyecto/blob/main/grafica3.jpg?raw=true)
-![](https://github.com/joseheredia01/Proyecto/blob/main/grafica4.jpg?raw=true)
+![](https://github.com/joseheredia01/Proyecto/blob/main/imagenes/grafica1.jpg?raw=true)
+![](https://github.com/joseheredia01/Proyecto/blob/main/imagenes/grafica2.jpg?raw=true)
+![](https://github.com/joseheredia01/Proyecto/blob/main/imagenes/grafica3.jpg?raw=true)
+![](https://github.com/joseheredia01/Proyecto/blob/main/imagenes/grafica4.jpg?raw=true)
 # Conclusión
 La experiencia de llevar a cabo un proyecto inicial sobre la falta de estudiantes en una carrera especifica y las dificultades para obtener la información necesaria destacó la complejidad en la recolección de datos.
 
@@ -98,4 +98,4 @@ La importancia de la disponibilidad y accesibilidad de la información se destac
 
 En conclusión, lidiar con problemas de obtención de datos en el proyecto inicial llevó a un cambio reflexivo y productivo hacia un proyecto nuevo y apropiado. Este proceso destaca la importancia de la adaptabilidad y la flexibilidad en la investigación, así como la relevancia de la información local y su utilidad para comprender y abordar problemas importantes de la comunidad.
 # Póster científico
-![](https://github.com/joseheredia01/Proyecto/blob/main/Poster%20Cientifico%20Proyecto%20Progra_page-0001.jpg?raw=true)
+![](https://github.com/joseheredia01/Proyecto/blob/main/imagenes/Poster%20Cientifico%20Proyecto%20Progra_page-0001.jpg?raw=true)
