@@ -1,15 +1,15 @@
 # Calculo de temperatura máxima y miníma promedio mensual de Coquimatán, Col. del periodo 1990 a 2017 con Python
 
-**FACULTAD DE INGENIERIA CIVIL**;
-**INGENIERO TOPOGRAFO GEOMATICO**;
-**Asesor**: Sebastián Gonzales Zepeda;
-**Autores**: 
+**FACULTAD DE INGENIERIA CIVIL**\
+**INGENIERO TOPOGRAFO GEOMATICO**\
+**Autores**:\
 Maximiliano Amezcua Delgado\
 José Guadalupe Heredia Aguilar\
 Melany Jexemany Aquino Orozco\ 
 Lari Naum Larios Santillán\ 
-**Grado y Grupo**: 3ºB
-Coquimatlán, Colima a 29 nov 2023
+**Grado y Grupo**: 3ºB\
+**Asesor**: Sebastián Gonzales Zepeda;\
+Coquimatlán, Colima a 29 nov 2023\
 
 # Resumen
 En este proyecto lo que tenemos básicamente es una tabla de datos de Excel en la cual vienen los datos sobre cuál fue la temperatura máxima promedio mensual y la mínima promedio mensual de Coquimatlán desde 1990 hasta el 2017.
