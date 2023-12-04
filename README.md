@@ -5,8 +5,8 @@
 **Autores**:\
 Maximiliano Amezcua Delgado\
 José Guadalupe Heredia Aguilar\
-Melany Jexemany Aquino Orozco\ 
-Lari Naum Larios Santillán\ 
+Melany Jexemany Aquino Orozco\
+Lari Naum Larios Santillán\
 **Grado y Grupo**: 3ºB\
 **Asesor**: Sebastián Gonzales Zepeda;\
 Coquimatlán, Colima a 29 nov 2023\
