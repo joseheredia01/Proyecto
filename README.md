@@ -2,13 +2,12 @@
 
 **FACULTAD DE INGENIERIA CIVIL**;
 **INGENIERO TOPOGRAFO GEOMATICO**;
-**"Temperatura Máxima y Mínima Promedio Mensual en Coquimatlán en 1990 - 2017”**;
-**Maestro**: Sebastián Gonzales Zepeda;
+**Asesor**: Sebastián Gonzales Zepeda;
 **Autores**: 
-Maximiliano Amezcua Delgado,
-José Guadalupe Heredia Aguilar,
-Melany Jexemany Aquino Orozco, y 
-Lari Naum Larios Santillán; 
+Maximiliano Amezcua Delgado\
+José Guadalupe Heredia Aguilar\
+Melany Jexemany Aquino Orozco\ 
+Lari Naum Larios Santillán\ 
 **Grado y Grupo**: 3ºB
 Coquimatlán, Colima a 29 nov 2023
 
