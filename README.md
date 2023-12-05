@@ -51,7 +51,7 @@ df.shape\
 print('El tamaño de los datos en filas y columnas es de ',df.shape)\
 pd.read\_excel("/content/drive/MyDrive/Colab Notebooks/Programacion 2/Parcial 4/Temperatura Maxima y Minima Promedio Mensual de Coquimatlán.xlsx")
 df.dtypes\
-print('\nLos datos son de tipo:\n',df.dtypes)\
+print('\nLos datos son de tipo:\n',df.dtypes)
 # 
 ![](https://github.com/joseheredia01/Proyecto/blob/main/imagenes/Codigo%201.jpg?raw=true)
 #
