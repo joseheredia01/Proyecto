@@ -98,6 +98,7 @@ mapa.save('ubicacion.html')\
 #Muestra el mapa en Jupyter Notebook o en un entorno similar\
 mapa
 #
+![](https://github.com/joseheredia01/Proyecto/blob/main/imagenes/MAPA.jpg?raw=true)
 # Resultados
 ![](https://github.com/joseheredia01/Proyecto/blob/main/imagenes/grafica1.jpg?raw=true)
 ![](https://github.com/joseheredia01/Proyecto/blob/main/imagenes/grafica2.jpg?raw=true)
