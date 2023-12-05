@@ -32,17 +32,17 @@ Para el manejo de datos, lo que realizaremos es una tabla de Excel en la cual po
 
 # Codigos
 #Proyecto de Programación\
-/## Cargar Librerías
-%config IPCompleter.greedy=True
-import pandas as pd
-import numpy as np
-import xlrd
-import seaborn as sb
-import matplotlib.pyplot as plt
-from matplotlib.ticker import PercentFormatter
-#Cargar base de datos
-from google.colab import files
-from google.colab import drive
+##Cargar Librerías\
+%config IPCompleter.greedy=True\
+import pandas as pd\
+import numpy as np\
+import xlrd\
+import seaborn as sb\
+import matplotlib.pyplot as plt\
+from matplotlib.ticker import PercentFormatter\
+#Cargar base de datos\
+from google.colab import files\
+from google.colab import drive\
 drive.mount('/content/drive')
 import pandas as pd
 df = pd.read\_excel("/content/drive/MyDrive/Colab Notebooks/Programacion 2/Parcial 4/Temperatura Maxima y Minima Promedio Mensual de Coquimatlán.xlsx")
