@@ -9,7 +9,7 @@ Melany Jexemany Aquino Orozco\
 Lari Naum Larios Santillán\
 **Grado y Grupo**: 3ºB\
 **Asesor**: Sebastián Gonzales Zepeda;\
-Coquimatlán, Colima a 29 nov 2023\
+Coquimatlán, Colima a 29 nov 2023
 
 # Resumen
 En este proyecto lo que tenemos básicamente es una tabla de datos de Excel en la cual vienen los datos sobre cuál fue la temperatura máxima promedio mensual y la mínima promedio mensual de Coquimatlán desde 1990 hasta el 2017.
