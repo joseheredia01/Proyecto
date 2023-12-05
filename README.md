@@ -31,7 +31,7 @@ Para el manejo de datos, lo que realizaremos es una tabla de Excel en la cual po
 ![](https://github.com/joseheredia01/Proyecto/blob/main/imagenes/manejo%20de%20datos%201.jpg?raw=true)
 
 # Codigos
-#Proyecto de Programación
+#Proyecto de Programación\
 /## Cargar Librerías
 %config IPCompleter.greedy=True
 import pandas as pd
