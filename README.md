@@ -84,6 +84,19 @@ plt.show()
 #
 ![](https://github.com/joseheredia01/Proyecto/blob/main/imagenes/Codigo%202.0.jpg?raw=true)
 ![](https://github.com/joseheredia01/Proyecto/blob/main/imagenes/Codigo%202.1.jpg?raw=true)
+# Componente Geoespacial
+import folium\
+#Coordenadas de ejemplo (Puedes cambiar estas coordenadas por las que desees mostrar)\
+latitud = 19.209336734803742\
+longitud = -103.8073240612347\
+#Crea un mapa centrado en las coordenadas especificadas\
+mapa = folium.Map(location=[latitud, longitud], zoom_start=12)\
+#Añade un marcador en las coordenadas especificadas\
+folium.Marker([latitud, longitud], popup='Ubicación').add_to(mapa)\
+#Guarda el mapa como un archivo HTML\
+mapa.save('ubicacion.html')\
+#Muestra el mapa en Jupyter Notebook o en un entorno similar\
+mapa
 # Resultados
 ![](https://github.com/joseheredia01/Proyecto/blob/main/imagenes/grafica1.jpg?raw=true)
 ![](https://github.com/joseheredia01/Proyecto/blob/main/imagenes/grafica2.jpg?raw=true)
